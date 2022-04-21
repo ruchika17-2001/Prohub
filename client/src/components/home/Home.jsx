@@ -7,7 +7,7 @@ function Home() {
   return (
 
     // <h1>This is home page</h1>
-    <Container>
+   
 
     
 
@@ -21,7 +21,7 @@ function Home() {
             </div>
         </div>
     </section>
-    </Container>
+  
   );
 }
 
